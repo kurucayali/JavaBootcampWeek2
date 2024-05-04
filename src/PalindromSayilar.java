@@ -1,5 +1,6 @@
 // Palindrom sayı tersindende okunduğunda da aynı olan sayılara denir.
 //Kullanıcıdan değer alıyoruz. Palindrom olup olmadığına dair bilgi veriyoruz.
+
 import java.util.Scanner;
 
 public class PalindromSayilar {
@@ -24,10 +25,10 @@ public class PalindromSayilar {
         Scanner input = new Scanner(System.in);
         System.out.print("Sayı giriniz.:");
         int number = input.nextInt();
-        if ( isPalindrom(number)== true){
-            System.out.print(number+" bir palindrom sayıdır");
-        }else{
-            System.out.print(number+" bir palindrom sayı değildir");
+        if (isPalindrom(number) == true) {
+            System.out.print(number + " bir palindrom sayıdır");
+        } else {
+            System.out.print(number + " bir palindrom sayı değildir");
         }
 
 
