@@ -1,3 +1,6 @@
+
+// Kullanıcıdan bir sayı alıyoruz. Bu sayıya yakın en küçük ve büyük değeri buluan program yazıyoruz.
+
 import java.util.Scanner;
 
 public class MaxMinInArray {
