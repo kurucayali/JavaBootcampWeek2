@@ -1,3 +1,5 @@
+// bir dizi içerisindeki elemanların tekrar sayısını buluyoruz
+
 import java.util.Arrays;
 
 public class DizidekiFrekans {
