@@ -21,8 +21,8 @@ public class SortingInArray {
 
         // Sıralanmış diziyi ekran basalım
         System.out.print("Sıralama: ");
-        for (int i : list) {
-            System.out.print(i + " ");
+        for (int eleman : list) {
+            System.out.print(eleman + " ");
         }
     }
 }
