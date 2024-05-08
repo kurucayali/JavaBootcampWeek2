@@ -9,7 +9,7 @@ public class BHarfiYazma {
                 } else if (j == 0 || j == 3) {
                     letter[i][j] = " * ";
                 } else {
-                    letter[i][j] = "   ";
+                    letter[i][j] = "    ";
                 }
             }
         }

@@ -21,7 +21,7 @@ public class MatrisTranspozu {
             }
         }
 
-        // list2 matrisini ekrana yazdır
+        // list2 matrisini ekrana yazdıralım
         for (int i = 0; i < list2.length; i++) {
             System.out.println(Arrays.toString(list2[i]));
         }
